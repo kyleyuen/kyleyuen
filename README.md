@@ -35,3 +35,15 @@
     </td>
   </tr>
 </table>
+
+## 🚀 My Top Programming Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyleyuen&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center" style="max-width: 600px; color: #555; font-size: 16px; line-height: 1.5;">
+  These are the programming languages I use most frequently, reflecting my passion for <strong>C++</strong> (file I/O, memory management, robotics), <strong>React JS</strong> web development, and <strong>Python</strong> scripting.
+</p>
+
+
